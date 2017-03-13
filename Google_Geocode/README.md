@@ -1,0 +1,3 @@
+# Google-Geocode
+
+This Python script is for geocoding a list of addresses using Google Maps API. Before using the script, you need to clean your address dataset to make it look like the format in geocode01.csv. To make things easier, try opening the CSV in Sublime text and using ‘Find All’ to replace all the spaces to “+”. Meanwhile, you need to add a “;” at the end of each line of the address. Otherwise, the URL will break into two lines automatically… This is just the first version… More updates and improvements will come in…
