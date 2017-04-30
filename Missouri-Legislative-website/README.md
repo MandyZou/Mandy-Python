@@ -1,4 +1,4 @@
-# Final-project-final
+# Missouri-Legislative-Bill-Status-Email 
 
 An application for the newsroom to check changes of bill status that happened in today. 
 
